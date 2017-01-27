@@ -1,3 +1,4 @@
 # hello_world
-follow guide
-This is the 1st commit.
+follow guide\n
+This is the 1st commit.\n
+Second.
